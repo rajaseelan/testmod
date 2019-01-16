@@ -1,1 +1,1 @@
-module github.com/rajaseelan/testmod
+module github.com/rajaseelan/testmod/v2
